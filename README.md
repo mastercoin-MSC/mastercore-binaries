@@ -1,4 +1,4 @@
-mastercore-binaries - Latest release: 0.0.8
+mastercore-binaries - Latest release: 0.0.8.1
 ===================
 
 This is the repository where binaries are hosted *only*. If you are looking for information regarding how to run Mastercore, configuration options, and RPC documentation, check the links below.
